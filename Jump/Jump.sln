@@ -1,11 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-<<<<<<< HEAD
-Project("{101F693F-7228-7A28-19A3-64F64CA1C0ED}") = "Jump", "Assembly-CSharp.csproj", "{4638E9A2-C3BD-0878-1B0C-D704E925A834}"
-=======
 Project("{101F693F-7228-7A28-19A3-64F64CA1C0ED}") = "Jump", "Assembly-UnityScript.unityproj", "{768ABE64-2BD6-72F7-63E8-ECA985DF08D2}"
->>>>>>> bc50c59d6e53980f29b2471ae9722164bfbb0dba
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,17 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-<<<<<<< HEAD
-		{4638E9A2-C3BD-0878-1B0C-D704E925A834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4638E9A2-C3BD-0878-1B0C-D704E925A834}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4638E9A2-C3BD-0878-1B0C-D704E925A834}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4638E9A2-C3BD-0878-1B0C-D704E925A834}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
 		{768ABE64-2BD6-72F7-63E8-ECA985DF08D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{768ABE64-2BD6-72F7-63E8-ECA985DF08D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{768ABE64-2BD6-72F7-63E8-ECA985DF08D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{768ABE64-2BD6-72F7-63E8-ECA985DF08D2}.Release|Any CPU.Build.0 = Release|Any CPU
->>>>>>> bc50c59d6e53980f29b2471ae9722164bfbb0dba
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

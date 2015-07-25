@@ -1,15 +1,6 @@
 ﻿<Properties>
-<<<<<<< HEAD
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BallMovement.cs">
-    <Files>
-      <File FileName="Assets\BallMovement.cs" Line="1" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
-=======
   <MonoDevelop.Ide.Workspace />
   <MonoDevelop.Ide.Workbench />
->>>>>>> bc50c59d6e53980f29b2471ae9722164bfbb0dba
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
